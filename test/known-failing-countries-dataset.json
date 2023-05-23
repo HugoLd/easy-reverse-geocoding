@@ -1,0 +1,32 @@
+[
+  {
+    "latitude": -19.0111,
+    "longitude": -61.4689,
+    "countryCode": "br"
+  },
+  {
+    "latitude": -17.5397,
+    "longitude": -149.5667,
+    "countryCode": "pf"
+  },
+  {
+    "latitude": 12.6547,
+    "longitude": -8.0009,
+    "countryCode": "sn"
+  },
+  {
+    "latitude": -20.1682,
+    "longitude": 57.5047,
+    "countryCode": "mu"
+  },
+  {
+    "latitude": 32.7017,
+    "longitude": -117.2244,
+    "countryCode": "USA"
+  },
+  {
+    "latitude": -20.3323,
+    "longitude": 57.5759,
+    "countryCode": "mu"
+  }
+]

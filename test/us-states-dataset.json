@@ -1,0 +1,37 @@
+[
+  {
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "countryCode": "USA-NY"
+  },
+  {
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "countryCode": "USA-CA"
+  },
+  {
+    "latitude": 37.7718,
+    "longitude": -122.4091,
+    "countryCode": "USA-CA"
+  },
+  {
+    "latitude": 40.7123,
+    "longitude": -73.8826,
+    "countryCode": "USA-NY"
+  },
+  {
+    "latitude": 41.6533,
+    "longitude": -87.8209,
+    "countryCode": "USA-IL"
+  },
+  {
+    "latitude": 40.7306,
+    "longitude": -73.9352,
+    "countryCode": "USA-NY"
+  },
+  {
+    "latitude": 32.7017,
+    "longitude": -117.2244,
+    "countryCode": "USA-CA"
+  }
+]

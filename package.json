@@ -4,8 +4,9 @@
   "description": "Offline reverse geocoding to find a country from latitude and longitude",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "scripts": {
-    "test": "test"
+    "test": "node ./test/test.js"
   },
   "keywords": [
     "reverse",
@@ -16,5 +17,8 @@
     "/dist"
   ],
   "author": "HugoLd",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "easy-reverse-geocoding": "^1.0.0"
+  }
 }

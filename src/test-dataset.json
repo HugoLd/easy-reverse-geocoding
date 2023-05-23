@@ -1,0 +1,137 @@
+[
+  {
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "countryCode": "fr"
+  },
+  {
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "countryCode": "gb"
+  },
+  {
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "countryCode": "us"
+  },
+  {
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "countryCode": "jp"
+  },
+  {
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "countryCode": "us"
+  },
+  {
+    "latitude": 45.6484,
+    "longitude": 16.8741,
+    "countryCode": "hr"
+  },
+  {
+    "latitude": 17.8882,
+    "longitude": 102.9021,
+    "countryCode": "th"
+  },
+  {
+    "latitude": 5.0368,
+    "longitude": 8.3416,
+    "countryCode": "ng"
+  },
+  {
+    "latitude": -24.7759,
+    "longitude": 134.3549,
+    "countryCode": "au"
+  },
+  {
+    "latitude": 37.7718,
+    "longitude": -122.4091,
+    "countryCode": "us"
+  },
+  {
+    "latitude": -19.0111,
+    "longitude": -61.4689,
+    "countryCode": "br"
+  },
+  {
+    "latitude": 27.6841,
+    "longitude": 85.3348,
+    "countryCode": "np"
+  },
+  {
+    "latitude": 40.7123,
+    "longitude": -73.8826,
+    "countryCode": "us"
+  },
+  {
+    "latitude": 50.4286,
+    "longitude": 30.5749,
+    "countryCode": "ua"
+  },
+  {
+    "latitude": 41.6533,
+    "longitude": -87.8209,
+    "countryCode": "us"
+  },
+  {
+    "latitude": 56.9472,
+    "longitude": 24.1063,
+    "countryCode": "lv"
+  },
+  {
+    "latitude": -17.5397,
+    "longitude": -149.5667,
+    "countryCode": "pf"
+  },
+  {
+    "latitude": 12.6547,
+    "longitude": -8.0009,
+    "countryCode": "sn"
+  },
+  {
+    "latitude": -20.1682,
+    "longitude": 57.5047,
+    "countryCode": "mu"
+  },
+  {
+    "latitude": 32.7017,
+    "longitude": -117.2244,
+    "countryCode": "us"
+  },
+  {
+    "latitude": 24.4667,
+    "longitude": 54.3667,
+    "countryCode": "ae"
+  },
+  {
+    "latitude": -20.3323,
+    "longitude": 57.5759,
+    "countryCode": "mu"
+  },
+  {
+    "latitude": -33.0312,
+    "longitude": -71.5567,
+    "countryCode": "cl"
+  },
+  {
+    "latitude": 40.7306,
+    "longitude": -73.9352,
+    "countryCode": "us"
+  },
+  {
+    "latitude": 25.0812,
+    "longitude": 121.5688,
+    "countryCode": "tw"
+  },
+  {
+    "latitude": 43.6532,
+    "longitude": -79.3832,
+    "countryCode": "ca"
+  },
+  {
+    "latitude": 33.7059,
+    "longitude": 73.0518,
+    "countryCode": "pk"
+  }
+]

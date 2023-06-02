@@ -1,6 +1,6 @@
 {
   "name": "easy-reverse-geocoding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Offline reverse geocoding to find a country from latitude and longitude",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

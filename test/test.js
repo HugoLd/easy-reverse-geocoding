@@ -1,8 +1,22 @@
 import { getCountry, getUsState } from "easy-reverse-geocoding";
 import countriesDataset from "./countries-dataset.json" assert { type: "json" };
 import usStatesDataset from "./us-states-dataset.json" assert { type: "json" };
+import { describe, it } from "node:test";
+import assert from "node:assert";
 
-function testPlaces(testName, dataset, func) {
+describe("Countries", () => {
+  it("should work when using known working values dataset", () => {
+    assert.ok(testPlaces(countriesDataset, getCountry));
+  });
+});
+
+describe("US states", () => {
+  it("should work when using known working values dataset", () => {
+    assert.ok(testPlaces(usStatesDataset, getUsState));
+  });
+});
+
+function testPlaces(dataset, func) {
   const errors = dataset
     .map((testingValue) => {
       return {
@@ -16,14 +30,10 @@ function testPlaces(testName, dataset, func) {
     .filter((resultValue) => resultValue.expected !== resultValue.actual);
   if (errors.length) {
     throw new Error(
-      testName +
-        errors.map(
-          (error) =>
-            "\nExpected " + error.expected + " to equal " + error.actual
-        )
+      errors.map(
+        (error) => "\nExpected " + error.expected + " to equal " + error.actual
+      )
     );
   }
+  return true;
 }
-
-testPlaces("Testing countries ", countriesDataset, getCountry);
-testPlaces("Testing US states ", usStatesDataset, getUsState);

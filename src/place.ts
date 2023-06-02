@@ -1,4 +1,4 @@
-interface Place {
+export interface Place {
   id: string;
   properties: { name: string };
   geometry: {

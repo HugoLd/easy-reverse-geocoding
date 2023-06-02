@@ -2,6 +2,7 @@
 import countries from "./countries.json";
 import usStates from "./us-states.json";
 import { PlaceSearchResult } from "./place-search-result";
+import { Place } from "./place";
 
 /**
  * Get country information from coordinates

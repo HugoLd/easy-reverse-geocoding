@@ -1,8 +1,9 @@
-import { getCountry, getUsState } from "easy-reverse-geocoding";
-import countriesDataset from "./countries-dataset.json" assert { type: "json" };
-import usStatesDataset from "./us-states-dataset.json" assert { type: "json" };
+import { getCountry, getUsState } from "../src/index";
 import { describe, it } from "node:test";
 import assert from "node:assert";
+
+const countriesDataset = require("./countries-dataset.json");
+const usStatesDataset = require("./us-states-dataset.json");
 
 describe("Countries", () => {
   it("should work when using known working values dataset", () => {
